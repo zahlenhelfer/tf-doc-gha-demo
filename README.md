@@ -1,4 +1,8 @@
 <!-- BEGIN_TF_DOCS -->
+#  header.md
+This is from `header.md` and can be customized even in Markdown
+---
+
 ## Requirements
 
 No requirements.
@@ -27,4 +31,7 @@ No inputs.
 ## Outputs
 
 No outputs.
+
+---
+This is from `footer.md` and can be customized even in Markdown.
 <!-- END_TF_DOCS -->
