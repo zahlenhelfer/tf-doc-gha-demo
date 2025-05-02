@@ -1,5 +1,5 @@
 <!-- BEGIN_TF_DOCS -->
-#  header.md
+#  header.md - for the beginning
 This is from `header.md` and can be customized even in Markdown
 Be aware that # terraform-docs-ignore is used to ignore the provider section
 
@@ -25,4 +25,5 @@ Be aware that # terraform-docs-ignore is used to ignore the provider section
 
 ---
 This is from `footer.md` and can be customized even in Markdown.
+crafted with <3 from open source
 <!-- END_TF_DOCS -->
